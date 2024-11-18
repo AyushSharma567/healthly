@@ -28,7 +28,7 @@ This Web3-based decentralized healthcare application leverages blockchain techno
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, CSS, HTML
-- **Blockchain**: Ethereum, Solidity, Web3.js, Metamask
+- **Blockchain**: Solidity, ethers, Metamask
 - **Smart Contracts**: Solidity
 
 ---
@@ -52,3 +52,4 @@ The project includes the following smart contract:
 
 
 I made this with the help of following video [here](https://www.youtube.com/watch?v=DDl0I3Uita0) and the github repo for their work is [this](https://github.com/syedmuhamaddanish/Blockchain-Healthcare)
+
